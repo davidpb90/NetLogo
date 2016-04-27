@@ -1,2 +1,2 @@
 # stage
-Repository for my stage project modules and packages
+Repository for my stage project modules and packages.
