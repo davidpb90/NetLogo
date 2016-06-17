@@ -1,2 +1,2 @@
-# stage
-Repository for my stage project modules and packages.
+# Netlogo
+Repository NetLogo agent based models developed for the course Complex Systems made simple by Agent Based Modeling at École Polytechnique.
